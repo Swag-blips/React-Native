@@ -1,0 +1,52 @@
+[
+  {
+    "id": "group-1",
+    "name": "r/FrontendDevelopers",
+    "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/11.png"
+  },
+  {
+    "id": "group-2",
+    "name": "r/ReactEnthusiasts",
+    "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/10.png"
+  },
+  {
+    "id": "group-3",
+    "name": "r/WebDevelopers",
+    "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/9.png"
+  },
+  {
+    "id": "group-4",
+    "name": "r/JSDevelopers",
+    "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/8.png"
+  },
+  {
+    "id": "group-5",
+    "name": "r/AIInnovators",
+    "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/7.png"
+  },
+  {
+    "id": "group-6",
+    "name": "r/TypeScriptCommunity",
+    "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/6.png"
+  },
+  {
+    "id": "group-7",
+    "name": "r/ReactJS",
+    "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/5.jpg"
+  },
+  {
+    "id": "group-8",
+    "name": "r/ServerlessTech",
+    "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/4.jpg"
+  },
+  {
+    "id": "group-9",
+    "name": "r/WebAccessibility",
+    "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/3.jpg"
+  },
+  {
+    "id": "group-10",
+    "name": "r/PWADevs",
+    "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/2.jpg"
+  }
+]
