@@ -9,6 +9,8 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@clerk/clerk-expo": "^2.7.8",
+    "@clerk/types": "^4.46.1",
     "date-fns": "^4.1.0",
     "expo": "~52.0.37",
     "expo-constants": "~17.0.7",
@@ -16,9 +18,11 @@
     "expo-router": "~4.0.17",
     "expo-status-bar": "~2.0.1",
     "react": "18.3.1",
+    "react-dom": "18.3.1",
     "react-native": "0.76.7",
     "react-native-safe-area-context": "4.12.0",
-    "react-native-screens": "~4.4.0"
+    "react-native-screens": "~4.4.0",
+    "expo-secure-store": "~14.0.1"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
