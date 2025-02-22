@@ -1,11 +1,13 @@
-import { Text, View } from "react-native";
-import posts from "../../../assets/data/posts.json";
+import { View } from "react-native";
+import PostListItem from "../../components/PostListitem";
 
 export default function HomeScreen() {
-  const post = posts[0];
   return (
     <View>
-      <Text>{post.user.name}</Text>
+      <PostListItem post={"Hello World"} />
+      <PostListItem />
+      <PostListItem />
+      <PostListItem />
     </View>
   );
 }
